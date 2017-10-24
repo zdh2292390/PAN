@@ -14,9 +14,10 @@ Pytorch 0.2.0
 ## Preprocessing
 
 To download and preprocess the corpora, run the following command:
-
+```bash
 $ ./preprocess.sh
-
+```
 To run the experiements, run command like following:
-
+```bash
 $ python train_PAN.py gillick attentive --feature --hier --bags -batch_size 1000 -bag_size 20
+```
