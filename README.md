@@ -4,8 +4,8 @@ Path-Based Attention Neural Model for Fine-Grained Entity Typing
 This repository contains the source code for the experiments presented in the following research paper ([PDF](http://zhangdenghui.tech/docs/PAN.pdf)):
 
 Path-Based Attention Neural Model for Fine-Grained Entity Typing 
-Denghui Zhang, Pengshan Cai, Yantao Jia, Manling Li, Yuanzhuo Wang 
-The Thirty-Second AAAI Conference on Artificial Intelligence (AAAI 2018) (poster, submitted) 
+Denghui Zhang, Manling Li, Pengshan Cai, Yantao Jia, Yuanzhuo Wang, Xueqi Cheng 
+The Thirty-Second AAAI Conference on Artificial Intelligence (AAAI 2018) (poster, accepted) 
 
 
 ## Requirements
