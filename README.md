@@ -21,3 +21,13 @@ To run the experiements, run command like following:
 ```bash
 $ python train_PAN.py gillick attentive --feature --hier --bags -batch_size 1000 -bag_size 20
 ```
+
+Please cite our paper if you find our research useful or relevant.
+```bash
+@article{zhang2017path,
+  title={Path-based attention neural model for fine-grained entity typing},
+  author={Zhang, Denghui and Cai, Pengshan and Jia, Yantao and Li, Manling and Wang, Yuanzhuo and Cheng, Xueqi},
+  journal={arXiv preprint arXiv:1710.10585},
+  year={2017}
+}
+```
